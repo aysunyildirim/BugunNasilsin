@@ -10,8 +10,7 @@ class Program
     Console.WriteLine("Bugun Nasilsin?");
     var hal = Console.ReadLine();
     Console.WriteLine();
-    Console.WriteLine("Ben de" + hal);
-    Console.WriteLine(hal);
+    Console.WriteLine("Ben de" +hal);
     Console.ReadLine();
 
     }
